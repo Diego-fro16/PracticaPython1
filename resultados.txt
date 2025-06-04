@@ -1,0 +1,6 @@
+Resultados de los estudiantes:
+Emilio: Calificaciones: [8.0, 9.0, 8.0, 9.0, 8.0], Promedio: 8.40
+Fermin: Calificaciones: [8.0, 9.0, 9.0, 9.0, 9.0], Promedio: 8.80
+Alan: Calificaciones: [7.0, 9.0, 8.0, 8.0, 8.0], Promedio: 8.00
+
+El mejor estudiante es: Fermin con promedio 8.80
